@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://demos.creative-tim.com/soft-ui-flowbite/addresses/</loc>
+  </url>
+  <url>
+    <loc>https://demos.creative-tim.com/soft-ui-flowbite/brands/</loc>
+  </url>
+  <url>
+    <loc>https://demos.creative-tim.com/soft-ui-flowbite/categories/</loc>
+  </url>
+  <url>
+    <loc>https://demos.creative-tim.com/soft-ui-flowbite/factors/</loc>
+  </url>
+  <url>
+    <loc>https://demos.creative-tim.com/soft-ui-flowbite/logout/</loc>
+  </url>
+  <url>
+    <loc>https://demos.creative-tim.com/soft-ui-flowbite/orders/</loc>
+  </url>
+  <url>
     <loc>https://demos.creative-tim.com/soft-ui-flowbite/products/</loc>
   </url>
   <url>
